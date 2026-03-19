@@ -21,7 +21,7 @@ This project analyzes and forecasts the stock price of **Samsung Electronics** u
 | Data Collection  | `yfinance`                               |
 | Data Handling    | `pandas`, `numpy`                        |
 | Time Series      | `statsmodels` (ARIMA), `tensorflow` (LSTM) |
-| Visualization    | `matplotlib`, `seaborn` (optional)       |
+| Visualization    | `matplotlib`, `seaborn`      |
 | Preprocessing    | `MinMaxScaler`, differencing             |
 | Evaluation       | RMSE, time-based validation split        |
 
